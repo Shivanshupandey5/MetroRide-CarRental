@@ -20,4 +20,18 @@ MetroRide is a responsive **car rental web application** built using **HTML**, *
 ![Screenshot 2025-04-11 223344](https://github.com/user-attachments/assets/e027925a-a6b8-4cad-b375-0482335fe5c1)
 
 
+## 📂 Folder Structure
+├── index.html // Landing page for car rental service 
+├── style.css // Styles for layout, design, responsiveness 
+├── script.js // JavaScript for interactivity
 
+
+## 🚀 How to Use
+
+1.Clone the repository:
+   ```bash
+   git clone https://github.com/Shivanshupandey5/MetroRide-CarRental.git
+
+2. Open index.html in your browser.
+
+3. Navigate to the rent section to view or fill booking form.
